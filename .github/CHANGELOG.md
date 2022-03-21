@@ -205,6 +205,7 @@
 1. [FMGC] Updates flight model info for FMGC guidance - @donstim (donbikes#4084)
 1. [EIS] Implement display switching - @tracernz (Mike)
 1. [FMGC] FAF altitude constraints on precision approaches treated correctly - @tracernz (Mike)
+1. [MCDU] Update Simbrief API integration with new weights and balance features - @sidnov (Sid)
 
 ## 0.7.0
 
