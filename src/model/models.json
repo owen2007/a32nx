@@ -86,6 +86,10 @@
       {
         "gltf": "./master-warn/master-warn.gltf",
         "bin": "./master-warn/master-warn.bin"
+      },
+      {
+        "gltf": "./display-switching/display-switching.gltf",
+        "bin": "./display-switching/display-switching.bin"
       }
     ],
     "modifications": [
